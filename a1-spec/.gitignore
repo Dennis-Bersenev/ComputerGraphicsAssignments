@@ -1,0 +1,7 @@
+# spec ignore by DKP
+
+A1.aux
+A1.log
+A1.out
+auto/A1.el
+*.zip

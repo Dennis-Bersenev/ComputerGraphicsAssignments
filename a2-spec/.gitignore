@@ -1,0 +1,7 @@
+# spec ignore by DKP
+
+A2.aux
+A2.log
+A2.out
+auto/A2.el
+*.zip
